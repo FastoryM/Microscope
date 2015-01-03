@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 b2bc76ed109441173420eb46b7b3cdec09e61474 Matt Dodds <matt-dodds@hotmail.com> 1418752122 -0500	commit (initial): First git commit for microscope
+b2bc76ed109441173420eb46b7b3cdec09e61474 057bfe174635e685bb02a76c901873b89944c7a5 Matt Dodds <matt-dodds@hotmail.com> 1418752705 -0500	pull origin master: Merge made by the 'recursive' strategy.
+057bfe174635e685bb02a76c901873b89944c7a5 a2de122c29041befaa1b8f6d9d7fc42b33104a77 Matt Dodds <matt-dodds@hotmail.com> 1419380277 -0500	commit: added bootstrap and underscore libraries
+a2de122c29041befaa1b8f6d9d7fc42b33104a77 8c857b35b8ba9ee6e8e4578c79a7066ee6133099 Matt Dodds <matt-dodds@hotmail.com> 1419382627 -0500	commit: re-arranged file structure
+8c857b35b8ba9ee6e8e4578c79a7066ee6133099 217d47cf08cfc9d911a14e61746cd502891203aa Matt Dodds <matt-dodds@hotmail.com> 1419382738 -0500	commit: re-arranged file structure
+217d47cf08cfc9d911a14e61746cd502891203aa a8e44a4541d2e0396a11dde56d3ae665ec8d041d Matt Dodds <matt-dodds@hotmail.com> 1419387188 -0500	commit: fixed css
+a8e44a4541d2e0396a11dde56d3ae665ec8d041d 8052f1285efcae708b67f5b37a1bb04bc4d9caeb Matt Dodds <matt-dodds@hotmail.com> 1419391123 -0500	commit: fixes to git
+8052f1285efcae708b67f5b37a1bb04bc4d9caeb 83a9e347904c4798cb23769d3660ee02228f2b98 Matt Dodds <matt-dodds@hotmail.com> 1419392744 -0500	commit (merge): new commit
+83a9e347904c4798cb23769d3660ee02228f2b98 736d2417fb80ce1fe1f45a4390a03de87ac63612 Matt Dodds <matt-dodds@hotmail.com> 1419393462 -0500	commit: setup domain helper on the postitem
+736d2417fb80ce1fe1f45a4390a03de87ac63612 ab97a325967b1f7f0bddcc8a159a0ab41ff48026 Matt Dodds <matt-dodds@hotmail.com> 1420252548 -0500	commit: Added Mac desktop client.
